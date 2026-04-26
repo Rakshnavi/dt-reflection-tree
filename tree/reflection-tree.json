@@ -1,1 +1,14 @@
 tree/reflection-tree.json
+{
+  "initial_question": "How can I improve my time management as a student?",
+  "reflections": [
+    {
+      "reflection_question": "Why is this question important to me?",
+      "answer": "Because I have many tasks and want to avoid stress."
+    },
+    {
+      "reflection_question": "What obstacles do I face?",
+      "answer": "Distractions, inconsistent schedule, study load."
+    }
+  ]
+}
